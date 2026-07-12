@@ -17,6 +17,7 @@ Tools to help you create professional, ATS-friendly resumes without wrestling wi
 | **[Open-Resume](https://www.open-resume.com/)** | A powerful open-source resume builder and ATS parser. |
 | **[Awesome Resume](https://resume.github.io/)** | Generates a resume automatically based on your GitHub activity. |
 | **[GitHub Pages](https://pages.github.com/)** | Free static hosting for developer portfolios and personal sites. |
+| **[Showcase](https://app.tryshowcase.ink/?utm_source=solid_company_github&utm_medium=community_resource&utm_campaign=direct100_solid_company_20260712)** | Turns a resume into an editable, evidence-first portfolio without inventing experience; build, edit, and preview are free, with live publishing on Pro. |
 
 ---
 
