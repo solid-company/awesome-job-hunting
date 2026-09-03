@@ -15,6 +15,7 @@ Tools to help you create professional, ATS-friendly resumes without wrestling wi
 | **[Reactive Resume](https://rxresu.me/)** | A free, open-source, privacy-focused resume builder. |
 | **[JSON Resume](https://jsonresume.org/)** | The open-source initiative to create a JSON-based standard for resumes. |
 | **[Open-Resume](https://www.open-resume.com/)** | A powerful open-source resume builder and ATS parser. |
+| **[ResumeAI](https://withresumeai.com/)** | Free ATS checker and AI resume builder; open State of ATS 2026 dataset (738 employers, Workday 37.9%). |
 | **[Awesome Resume](https://resume.github.io/)** | Generates a resume automatically based on your GitHub activity. |
 | **[GitHub Pages](https://pages.github.com/)** | Free static hosting for developer portfolios and personal sites. |
 
