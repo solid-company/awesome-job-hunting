@@ -15,6 +15,7 @@ Tools to help you create professional, ATS-friendly resumes without wrestling wi
 | **[Reactive Resume](https://rxresu.me/)** | A free, open-source, privacy-focused resume builder. |
 | **[JSON Resume](https://jsonresume.org/)** | The open-source initiative to create a JSON-based standard for resumes. |
 | **[Open-Resume](https://www.open-resume.com/)** | A powerful open-source resume builder and ATS parser. |
+| **[Hiretop ATS Resume Checker](https://hiretop.com/ats-resume-checker)** | A free ATS checker with no signup: shows the text an ATS extracts from your PDF and matches it against a job description. |
 | **[Awesome Resume](https://resume.github.io/)** | Generates a resume automatically based on your GitHub activity. |
 | **[GitHub Pages](https://pages.github.com/)** | Free static hosting for developer portfolios and personal sites. |
 
