@@ -67,6 +67,7 @@ Keep your job search organized and your pipeline under control.
 | --- | --- |
 | **[Huntr](https://huntr.co/)** | Job application tracker and pipeline CRM. |
 | **[Teal](https://www.tealhq.com/)** | Job tracker combined with a resume builder. |
+| **[NeverApply](https://neverapply.co/)** | AI job-search agent that matches jobs, tailors your resume per role and tracks every application in one pipeline. Free plan available. *(Disclosure: I'm on the NeverApply team)* |
 
 ---
 
