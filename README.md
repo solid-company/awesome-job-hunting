@@ -44,6 +44,7 @@ Boards and aggregators focused on tech industry roles, including remote-friendly
 | **[No Fluff Jobs](https://nofluffjobs.com/)** | IT job board with full job specs upfront. |
 | **[Just Join IT](https://justjoin.it/)** | Popular IT job board with map-based search. |
 | **[SwissDevJobs](https://swissdevjobs.ch/)** | Job board focused on developer and tech roles across Switzerland. |
+| **[EuroJobs.ai](https://eurojobs.ai/)** | Aggregates 28,000+ IT jobs from 21,000 employers' own career pages (Greenhouse, Lever, Ashby, Workable and others), rechecked hourly. Filters for country, remote, visa sponsorship and English-speaking teams. |
 
 ---
 
